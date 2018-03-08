@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix/feign-rest-consumer/feign-rest-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix/feign-rest-consumer/feign-rest-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-m-1.iml" filepath="$PROJECT_DIR$/learning-m-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix/rest-consumer/rest-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix/rest-consumer/rest-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix/rest-producer/rest-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix/rest-producer/rest-producer.iml" />
+    </modules>
+  </component>
+</project>

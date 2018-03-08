@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="feign-rest-consumer" />
+        <module name="rest-consumer" />
+        <module name="rest-producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="feign-rest-consumer" target="1.8" />
+      <module name="feignrestconsumer" target="1.5" />
+      <module name="learning-m-1" target="1.5" />
+      <module name="rest-consumer" target="1.8" />
+      <module name="rest-producer" target="1.8" />
+      <module name="spring-cloud-hystrix" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
